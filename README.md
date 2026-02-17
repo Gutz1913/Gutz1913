@@ -44,3 +44,10 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 <a href="https://github.com/HridoyHazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
     
 <br>
+
+<div>
+🔴🟡🟢
+<br>
+</div>
+
+
