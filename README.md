@@ -14,7 +14,7 @@
 Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia. I'm currently a student of mobile application development, who is passionate about web development.
 
 - 🎓 &nbsp; I’m currently a senior student at ITM University's Department of Engineering.
-- 🌱 &nbsp; Learning more about Data Structure, Embedded Software, Software Design, User Experience, User Interface and Data Networks.
+- 🌱 &nbsp; Learning more about Data Structure, Software Design, User Experience, User Interface, Web Development and Data Networks.
   <!-- Connect with me -->
   <!--h2 without bottom border-->
    <div id="user-content-toc">
