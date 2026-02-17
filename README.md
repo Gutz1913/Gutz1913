@@ -50,4 +50,12 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 <br>
 </div>
 
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
+<p align="center">
+  Made with ❤️ in Medellín
+</p>
+
 
