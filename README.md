@@ -11,7 +11,7 @@
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia. I'm currently a student of mobile application development, who is passionate about Embedded Systems.
+Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia. I'm currently a student of mobile application development, who is passionate about web development.
 
 - 🎓 &nbsp; I’m currently a senior student at ITM University's Department of Engineering.
 - 🌱 &nbsp; Learning more about Data Structure, Embedded Software, Software Design, User Experience, User Interface and Data Networks.
