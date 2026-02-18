@@ -63,7 +63,7 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 </p>
 
 <p align="center">
-  Made with ❤️ in Medellín
+  Made with ❤️, in Medellín
 </p>
 
 
