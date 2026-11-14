@@ -75,6 +75,8 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+-----
+
 <br>
  
 ### ⚙️ &nbsp;GitHub Statistics
