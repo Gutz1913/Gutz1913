@@ -77,19 +77,21 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 
 <br>
 
-### Github <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
+<p align="center">
+### Github <picture style="margin-right: 10px;"><img src="https://github.com/Gutz1913/Gutz1913/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+![Gutz1913's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Gutz1913g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
-### 编程语言 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
+### 编程语言 <picture style="margin-right: 10px;"><img src="https://github.com/Gutz1913/Gutz1913/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Gutz1913&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Gutz1913" width="350" height="250">
+</p>
 
  
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Gutz1913">
-  <img height="180em" weidth="600" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gutz1913&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gutz1913&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" weidth="600" src="https://github-vercel-deployment-seven.vercel.app/api?username=Gutz1913&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs/?username=Gutz1913&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
