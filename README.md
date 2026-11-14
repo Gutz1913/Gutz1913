@@ -47,11 +47,8 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 <br>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutz1913&layout=compact)
 <br>
-<a href="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
-</a>
   
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -80,6 +77,12 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 
 <p align="center">
   Made with ❤️, in Medellín
+</p>
+
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=Gutz1913&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Gutz1913&style=for-the-badge">
+</a>
 </p>
 
 
