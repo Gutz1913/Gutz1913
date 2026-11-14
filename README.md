@@ -36,6 +36,22 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
   </div>
 
 -----
+
+#### 🔧 Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&layout=compact)
+<br>
+<a href="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
+</a>
   
 ### ⚙️ &nbsp;GitHub Analytics
 
