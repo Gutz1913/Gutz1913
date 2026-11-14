@@ -76,7 +76,7 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 -----
-### ⚙️ &nbsp;GitHub Statistics
+## 📈 My GitHub Stats and Activity
 
 <p align="center">
 <a href="https://github.com/Gutz1913">
