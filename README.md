@@ -76,6 +76,14 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
+
+### Github 状态图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
+
+### Github 贡献图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+[![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
   
 ### ⚙️ &nbsp;GitHub Analytics
 
