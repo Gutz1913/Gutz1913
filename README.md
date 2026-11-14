@@ -45,10 +45,6 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutz1913&layout=compact)
-<br>
   
 ### ⚙️ &nbsp;GitHub Analytics
 
