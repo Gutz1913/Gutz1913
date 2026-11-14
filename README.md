@@ -31,7 +31,7 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
     </ul>
   <!--icons and links-->
   <p align="left">
-  <a href="mailto:andresfgutierrezv@gmail.com" target="_blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+  <a href="mailto:andresfgutierrezv@gmail.com"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
   </p>
   </div>
 
