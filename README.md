@@ -76,17 +76,8 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
-
-<p align="center">
-### Github <picture style="margin-right: 10px;"><img src="https://github.com/Gutz1913/Gutz1913/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-![Gutz1913's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Gutz1913g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
-
-### 编程语言 <picture style="margin-right: 10px;"><img src="https://github.com/Gutz1913/Gutz1913/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Gutz1913&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Gutz1913" width="350" height="250">
-</p>
-
  
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Statistics
 
 <p align="center">
 <a href="https://github.com/Gutz1913">
