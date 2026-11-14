@@ -80,7 +80,7 @@ Hello everyone, my name is Andrés Gutiérrez and I'm from Medellín - Colombia.
 
 <p align="center">
 <a href="https://github.com/Gutz1913">
-  <img height="180em" weidth="600" src="https://github-vercel-deployment-seven.vercel.app/api?username=Gutz1913&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" weidth="600" src="https://github-vercel-deployment-seven.vercel.app/api?username=Gutz1913&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs/?username=Gutz1913&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
