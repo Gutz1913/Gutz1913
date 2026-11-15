@@ -1,6 +1,6 @@
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 <p align="center">
-  <a href="https://github.com/Gutz1913/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chewy&color=#114FDAFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/Gutz1913/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chewy&color=#114FDAFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World,;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
