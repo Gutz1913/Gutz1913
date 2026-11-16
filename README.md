@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Gutz1913/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Account..&hearts;++;My+name+is+Andrés+Gutiérrez,;I'm+from+Medellín-Colombia,;Currently+I'm+a+FullStack+movile+apps+Development,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
------
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
